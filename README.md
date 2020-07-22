@@ -1,8 +1,15 @@
+<div align="center">
+
+[![Github Stats][githubstats]][githublink]
+
 [![Gist Badge][gistbadge]][gistlink]
 [![Github Badge][githubbadge]][githublink]
 [![Gmail Badge][gmailbadge]][gmaillink]
 [![Telegram Badge][telegrambadge]][telegramlink]
 
+</div>
+
+[githubstats]: https://github-readme-stats.vercel.app/api?username=paulloclara&show_icons=true&hide=["issues"]
 [gistlink]: https://gist.github.com/paulloclara
 [githublink]: https://github.com/paulloclara
 [gmaillink]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=paulloclara@gmail.com&tf=1
