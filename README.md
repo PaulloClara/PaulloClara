@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Desenvolvedor web com 4 anos de experiência em VueJS e TypeScript, especializado em projetos de alto tráfego e desenvolvimento de plataformas do conceito à entrega. Possuo experiência em e-commerce nos setores imobiliário e de materiais de construção, além de soluções jurídicas e plataformas de saúde.
+Sou um desenvolvedor web com 4 anos de experiência em VueJS e TypeScript, especializado em projetos de alto tráfego e desenvolvimento de plataformas do conceito à entrega. Possuo experiência em e-commerces nos setores imobiliário e de materiais de construção, além de soluções jurídicas e plataformas de saúde.
 
 ## 🚀 Linguagens e Ferramentas
 
@@ -44,8 +44,7 @@ Desenvolvedor web com 4 anos de experiência em VueJS e TypeScript, especializad
         <strong>CSS3</strong>
       </td>
       <td align="center" style="padding: 10px;">
-        <img alt="Tailwind CSS" title="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss
-/tailwindcss-original.svg"/><br>
+        <img alt="Tailwind CSS" title="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/><br>
         <strong>Tailwind CSS</strong>
       </td>
       <td align="center" style="padding: 10px;">
@@ -93,8 +92,8 @@ Desenvolvedor web com 4 anos de experiência em VueJS e TypeScript, especializad
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img alt="Meu Github" align="center"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&custom_title=Meu Github"/>
-  <img alt="Melhores Linguagens <3" align="center" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulloClara&layout=donut&langs_count=5&theme=transparent&custom_title=Melhores Linguagens <3"/>
+  <img alt="Meu Github" align="center"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&custom_title=Meu%20Github"/>
+  <img alt="Melhores Linguagens <3" align="center" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulloClara&layout=donut&langs_count=5&theme=transparent&custom_title=Melhores%20Linguagens%20<3"/>
 </div>
 
 ---
