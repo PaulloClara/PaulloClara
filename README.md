@@ -92,7 +92,7 @@ Sou um desenvolvedor web com 4 anos de experiência em VueJS e TypeScript, espec
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img alt="Meu Github" align="center"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&custom_title=Meu%20Github"/>
+  <img alt="Meu Github" align="center"  src="https://github-readme-stats.vercel.app/api?username=PaulloClara&show_icons=true&theme=transparent&custom_title=Meu%20Github"/>
   <img alt="Melhores Linguagens <3" align="center" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulloClara&layout=donut&langs_count=5&theme=transparent&custom_title=Melhores%20Linguagens%20<3"/>
 </div>
 
