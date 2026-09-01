@@ -98,8 +98,9 @@ Ao longo da minha trajetória também participei do desenvolvimento de produtos 
 ## 📊 GitHub
 
 <div align="center">
-  <img alt="GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=PaulloClara&show_icons=true&theme=transparent&custom_title=Meu%20GitHub"/>
-  <img alt="Linguagens mais utilizadas" align="center" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulloClara&layout=donut&langs_count=5&theme=transparent&custom_title=Linguagens%20mais%20utilizadas"/>
+  <a href="https://github.com/PaulloClara">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulloClara&theme=transparent" alt="GitHub Profile Summary"/>
+  </a>
 </div>
 
 ---
