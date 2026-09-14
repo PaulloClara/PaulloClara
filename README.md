@@ -98,8 +98,8 @@ Ao longo da minha trajetória também participei do desenvolvimento de produtos 
 ## 📊 GitHub
 
 <div align="center">
-  <a href="https://github.com/PaulloClara">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulloClara&theme=transparent" alt="GitHub Profile Summary"/>
+  <a href="https://github.com/PauloRCardoso">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PauloRCardoso&theme=transparent" alt="GitHub Profile Summary"/>
   </a>
 </div>
 
@@ -118,12 +118,12 @@ Ao longo da minha trajetória também participei do desenvolvimento de produtos 
 
 </div>
 
-[linkedinlink]: https://www.linkedin.com/in/paulloclara/
+[linkedinlink]: https://www.linkedin.com/in/paulorcardoso/
 [whatsapplink]: https://wa.me/5586988000821
-[telegramlink]: https://t.me/paulloclara/
-[gmaillink]: mailto:paulloclara@gmail.com
-[githublink]: https://github.com/paulloclara
-[gistlink]: https://gist.github.com/paulloclara
+[telegramlink]: https://t.me/paulorcardoso/
+[gmaillink]: mailto:paulorcardoso@gmail.com
+[githublink]: https://github.com/paulorcardoso
+[gistlink]: https://gist.github.com/paulorcardoso
 [linkedinbadge]: https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white
 [whatsappbadge]: https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white
 [telegrambadge]: https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&logo=Telegram&logoColor=white
